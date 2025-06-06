@@ -20,7 +20,6 @@ This repository contains two independent data science projects applying machine 
 - Historical stock data of Coca-Cola (Ticker: KO) from 1962 to present.
 - Columns: `Date`, `Open`, `High`, `Low`, `Close`, `Volume`, `Dividends`, `Stock Splits`
 - Source: Yahoo Finance or equivalent  
-- 📥 [Dataset Download Link](#) *(Replace with actual link)*
 
 #### 🎯 Goals
 - Analyze historical stock trends.
